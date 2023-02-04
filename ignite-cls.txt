@@ -1,0 +1,6 @@
+# IBC 
+```
+    ignite scaffold chain github.com/RaspiRepo/leaderboard --no-module
+    cd leaderboard
+    ignite scaffold module leaderboard --ibc
+```
